@@ -21,7 +21,7 @@ export default function Home() {
           <div className="profile-statement"><p>{siteConfig.summary}</p><p>My strongest interests sit where <strong>AI meets physical intelligence</strong>: ROS 2 architectures, Nav2 autonomy, MoveIt motion planning, humanoids, perception, and reliable robot behaviour outside the lab.</p></div>
           <div className="profile-facts">
             <div><span>BASE</span><strong>{siteConfig.location}</strong></div>
-            <div><span>FOCUS</span><strong>AI · ROS 2 · Humanoids</strong></div>
+            <div><span>FOCUS</span><strong>AI · ROS 2 · Nav2 · MoveIt2 · Humanoids</strong></div>
             <div><span>CURRENT</span><strong>{siteConfig.availability}</strong></div>
             <div><span>STATUS</span><strong>Open to robotics missions</strong></div>
           </div>
